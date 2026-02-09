@@ -82,7 +82,7 @@
 - Частота: 5200 МГц
 - Призначення: сучасні ПК, ігри, професійні задачі
 
-![Kingston DDR5](https://www.kingston.com/content/dam/kingston/product-images/memory/fury/beast-ddr5/kf552c40bb-16/kf552c40bb-16-hero.jpg)
+![Kingston DDR5](https://a.428.ua/img/3401838/600/600/modul_pamyati_kingston_fury_ddr5_16gb_5200mhz_beast_rgb_kf552c40bba-16~1596~509.jpg)
 
 <img width="939" height="368" alt="image" src="https://github.com/user-attachments/assets/793ec0e5-12d8-4d33-802b-4c44f31ad602" />
 
