@@ -8,7 +8,7 @@
 
 Найпоширенішими сучасними стандартами оперативної пам’яті є **DDR4** та **DDR5**.
 
-![Модулі оперативної памʼяті](https://ua.gecid.com/ram/obzor_moduley_operativnoy_pamyati_ddr2-800_twinmos_8drt5ma8-tatp_2_gb/)
+![Модулі оперативної памʼяті](https://ua.gecid.com/data/ram/201111280000-3045/img/01.jpg)
 
 ---
 
@@ -23,7 +23,7 @@
 - Кількість контактів (DIMM): **288**
 - Вища енергоефективність порівняно з DDR3
 
-![DDR4 модуль](https://upload.wikimedia.org/wikipedia/commons/2/2b/DDR4_SDRAM.jpg)
+![DDR4 модуль](https://assets.micron.com/adobe/assets/urn:aaid:aem:db8444ac-4e11-458c-af35-369614febf67/renditions/transformpng-1024-1024.png/as/crucial-ddr4-4-8gb-udimm-image.png)
 
 ---
 
@@ -40,7 +40,7 @@
 - Вбудований контролер живлення (PMIC)
 - Вища пропускна здатність і стабільність
 
-![DDR5 модуль](https://upload.wikimedia.org/wikipedia/commons/8/8f/DDR5_RAM.jpg)
+![DDR5 модуль](https://assets.micron.com/adobe/assets/urn:aaid:aem:045efaa5-4838-4342-b330-9468300c46b9/renditions/transformpng-1024-1024.png/as/micron-ddr5-ecc-udimm-32GB-2Rx8-front-image.png)
 
 ---
 
@@ -66,7 +66,9 @@
 - Частота: 3200 МГц
 - Призначення: ігри, офіс, навчання
 
-![Kingston DDR4](https://www.kingston.com/content/dam/kingston/product-images/memory/fury/beast-ddr4/rgb/kf432c16bbak2-16/kf432c16bbak2-16-hero.jpg)
+![Kingston DDR4](https://elmir.ua/uploads/imgs/292/32292.png)
+
+<img width="1185" height="340" alt="image" src="https://github.com/user-attachments/assets/fbb7790c-1cb5-4762-9f73-dd023f00a28a" />
 
 ---
 
@@ -82,6 +84,9 @@
 
 ![Kingston DDR5](https://www.kingston.com/content/dam/kingston/product-images/memory/fury/beast-ddr5/kf552c40bb-16/kf552c40bb-16-hero.jpg)
 
+<img width="939" height="368" alt="image" src="https://github.com/user-attachments/assets/793ec0e5-12d8-4d33-802b-4c44f31ad602" />
+
+
 ---
 
 ## 7. Порівняння вибраних модулів
@@ -93,6 +98,9 @@
 | Частота         | 3200 МГц      | 5200 МГц     |
 | Напруга         | 1.2 В         | 1.1 В        |
 | Продуктивність  | Середня       | Висока       |
+
+
+<img width="737" height="1004" alt="image" src="https://github.com/user-attachments/assets/f6d3e22c-e09e-47eb-a440-bdde8ccaf591" />
 
 ---
 
